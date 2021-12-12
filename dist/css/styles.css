@@ -7419,7 +7419,15 @@ textarea.form-control-lg {
 }
 
 .mb-5 {
-  margin-bottom: 3rem !important;
+  margin-bottom: 0rem !important;
+}
+
+.mb-51 {
+  margin-bottom: 0rem !important;
+  display: inline-block;
+  background-color: #f8f9fa;
+  color: #0dcaf0;
+  margin-bottom: 20px;
 }
 
 .mb-auto {
