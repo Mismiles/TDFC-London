@@ -3986,6 +3986,7 @@ textarea.form-control-lg {
   position: fixed;
   z-index: 1;
   top: 15px;
+  padding: 0.5px;
 }
 
 .nav-link {
